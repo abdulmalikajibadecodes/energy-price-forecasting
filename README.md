@@ -75,12 +75,9 @@ After running, you'll have:
 
 ## 📊 **Demo**
 
-### **Model Performance Visualization**
-![Model Performance](docs/images/model_performance.png)
-*Actual vs Predicted prices showing excellent tracking of daily patterns and price spikes*
 
 ### **Feature Importance Analysis**
-![Feature Importance](docs/images/feature_importance.png)
+![Feature Importance](https://github.com/abdulmalikajibadecodes/energy-price-forecasting/blob/main/feature_importance.png)
 *Key insights: Price mean reversion and solar generation drive Belgian market prices*
 
 ### **Sample Forecast Output**
