@@ -1,0 +1,40 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+energy_forecast_env/
+venv/
+env/
+
+# Data files
+data/raw/*
+data/processed/*
+!data/.gitkeep
+
+# Models
+models/*.pkl
+models/*.h5
+
+# Logs
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
