@@ -77,7 +77,7 @@ After running, you'll have:
 
 
 ### **Feature Importance Analysis**
-![Feature Importance]([https://github.com/abdulmalikajibadecodes/energy-price-forecasting/blob/main/feature_importance.png](https://github.com/abdulmalikajibadecodes/energy-price-forecasting/blob/main/feature_importance.png))
+![Feature Importance](https://github.com/abdulmalikajibadecodes/energy-price-forecasting/blob/main/feature_importance.png)
 *Key insights: Price mean reversion and solar generation drive Belgian market prices*
 
 ### **Sample Forecast Output**
